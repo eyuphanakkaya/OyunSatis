@@ -1,0 +1,14 @@
+C:\Users\Eyüphan Akkaya\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Eyüphan Akkaya\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\Eyüphan Akkaya\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\Eyüphan Akkaya\source\repos\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Eyüphan Akkaya\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\Eyüphan Akkaya\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Eyüphan Akkaya\Desktop\csharp\Game\Game\bin\Debug\Game.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\Game\Game\bin\Debug\Game.pdb
+C:\Users\Eyüphan Akkaya\Desktop\csharp\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Eyüphan Akkaya\Desktop\csharp\Game\Game\obj\Debug\Game.exe
+C:\Users\Eyüphan Akkaya\Desktop\csharp\Game\Game\obj\Debug\Game.pdb
